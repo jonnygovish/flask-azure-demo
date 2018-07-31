@@ -8,6 +8,7 @@ __pycache__/
 # Build results
 /bin/
 /obj/
+virtual/
 
 # User-specific files
 *.suo
